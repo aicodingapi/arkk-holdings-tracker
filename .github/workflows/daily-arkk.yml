@@ -2,7 +2,7 @@ name: Daily ARKK Holdings Download
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 20:00 HKT
+    - cron: '30 13 * * *'
   workflow_dispatch:
 
 jobs:
