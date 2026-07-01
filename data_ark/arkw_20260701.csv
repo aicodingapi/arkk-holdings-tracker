@@ -1,0 +1,48 @@
+date,fund,company,ticker,cusip,shares,market value ($),weight (%)
+07/01/2026,ARKW,ADVANCED MICRO DEVICES,AMD,007903107,"269,085","$156,314,167.40",9.33%
+07/01/2026,ARKW,TESLA INC,TSLA,88160R101,"336,141","$141,380,904.60",8.44%
+07/01/2026,ARKW,ROBINHOOD MARKETS INC - A,HOOD,770700102,"957,474","$96,015,492.72",5.73%
+07/01/2026,ARKW,SHOPIFY INC - CLASS A,SHOP,82509L107,"648,504","$74,046,186.72",4.42%
+07/01/2026,ARKW,ARK BITCOIN ETF HOLDCO (ARKW),,MM0051EWE,"3,775,474","$73,470,346.49",4.38%
+07/01/2026,ARKW,ALPHABET INC-CL C,GOOG,02079K107,"180,040","$63,613,533.20",3.80%
+07/01/2026,ARKW,AMAZON.COM INC,AMZN,023135106,"258,071","$61,508,642.14",3.67%
+07/01/2026,ARKW,COREWEAVE INC-CL A,CRWV,21873S108,"582,874","$58,019,277.96",3.46%
+07/01/2026,ARKW,SPACE EXPLORATION TECHN-CL A,SPCX,84615Q103,"328,772","$56,173,983.92",3.35%
+07/01/2026,ARKW,ROBLOX CORP -CLASS A,RBLX,771049103,"1,017,625","$55,338,447.50",3.30%
+07/01/2026,ARKW,COINBASE GLOBAL INC -CLASS A,COIN,19260Q107,"357,180","$52,216,144.20",3.12%
+07/01/2026,ARKW,BLOCK INC,XYZ,852234103,"636,601","$48,381,676.00",2.89%
+07/01/2026,ARKW,CROWDSTRIKE HOLDINGS INC - A,CRWD,22788C105,"60,525","$46,189,048.50",2.76%
+07/01/2026,ARKW,DATADOG INC - CLASS A,DDOG,23804L103,"176,258","$45,890,532.88",2.74%
+07/01/2026,ARKW,CIRCLE INTERNET GROUP INC,CRCL,172573107,"726,396","$45,494,181.48",2.71%
+07/01/2026,ARKW,OPENAI GROUP PBC SERIES C,,PPOPENAIC,"62,528","$42,999,686.48",2.57%
+07/01/2026,ARKW,PALANTIR TECHNOLOGIES INC-A,PLTR,69608A108,"356,603","$41,604,872.01",2.48%
+07/01/2026,ARKW,TAIWAN SEMICONDUCTOR-SP ADR,TSM,874039100,"85,672","$40,914,377.04",2.44%
+07/01/2026,ARKW,CLOUDFLARE INC - CLASS A,NET,18915M107,"142,622","$34,982,324.16",2.09%
+07/01/2026,ARKW,BROADCOM INC,AVGO,11135F101,"92,246","$34,845,926.50",2.08%
+07/01/2026,ARKW,META PLATFORMS INC-CLASS A,META,30303M102,"56,084","$31,591,556.36",1.89%
+07/01/2026,ARKW,CEREBRAS SYSTEMS INC - A,CBRS,15675D103,"141,535","$31,279,235.00",1.87%
+07/01/2026,ARKW,ROKU INC,ROKU,77543R102,"192,288","$26,562,664.32",1.59%
+07/01/2026,ARKW,RUBRIK INC-A,RBRK,781154109,"325,766","$26,152,494.48",1.56%
+07/01/2026,ARKW,EVERPURE INC-A,P,74624M102,"323,559","$25,493,213.61",1.52%
+07/01/2026,ARKW,NVIDIA CORP,NVDA,67066G104,"125,745","$25,160,317.05",1.50%
+07/01/2026,ARKW,BULLISH,BLSH,G16910120,"954,221","$22,357,398.03",1.33%
+07/01/2026,ARKW,BITMINE IMMERSION TECHNOLOGI,BMNR,09175A206,"1,488,091","$19,806,491.21",1.18%
+07/01/2026,ARKW,TOAST INC-CLASS A,TOST,888787108,"702,506","$19,543,716.92",1.17%
+07/01/2026,ARKW,GITLAB INC-CL A,GTLB,37637K108,"618,161","$18,872,455.33",1.13%
+07/01/2026,ARKW,GENIUS SPORTS LTD,GENI,G3934V109,"3,065,770","$18,578,566.20",1.11%
+07/01/2026,ARKW,SNOWFLAKE INC,SNOW,833445109,"73,081","$18,599,114.50",1.11%
+07/01/2026,ARKW,FIGMA INC-CL A,FIG,316841105,"986,779","$17,850,832.11",1.07%
+07/01/2026,ARKW,DOORDASH INC - A,DASH,25809K105,"92,280","$17,028,428.40",1.02%
+07/01/2026,ARKW,SPOTIFY TECHNOLOGY SA,SPOT,L8681T102,"37,109","$17,037,855.17",1.02%
+07/01/2026,ARKW,DRAFTKINGS INC-CL A,DKNG UW,26142V105,"646,665","$16,334,757.90",0.97%
+07/01/2026,ARKW,NETFLIX INC,NFLX,64110L106,"224,871","$16,055,789.40",0.96%
+07/01/2026,ARKW,MERCADOLIBRE INC,MELI,58733R102,"8,544","$14,502,500.16",0.87%
+07/01/2026,ARKW,AIRBNB INC-CLASS A,ABNB,009066101,"62,758","$8,980,669.80",0.54%
+07/01/2026,ARKW,3IQ ETHER STAKING ETF,ETHQ/U,BQ84B35,"784,991","$4,741,345.64",0.28%
+07/01/2026,ARKW,ALPHABET INC-CL A,GOOGL,02079K305,"12,041","$4,303,092.17",0.26%
+07/01/2026,ARKW,3IQ SOLANA STAKING ETF,SOLQ/U,BTRDQ40,"419,417","$2,512,307.83",0.15%
+07/01/2026,ARKW,ALIBABA GROUP HOLDING-SP ADR,BABA,01609W102,"11,390","$1,093,212.20",0.07%
+07/01/2026,ARKW,GOLDMAN FS TRSY OBLIG INST 468,,X9USDGSFT,"793,711","$793,710.86",0.05%
+07/01/2026,ARKW,BRERA HOLDINGS PLC-CL B,,G13311132,"144,292","$730,117.52",0.04%
+07/01/2026,ARKW,BRERA HOLDINGS PLC WTS,,BREADUMMY,"139,569","$371,253.81",0.02%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more volatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses.Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market volatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very large creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose ValueAll statements made regarding companies, securities or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell or hold any security. Holdings are subject to change without notice.Foreside Fund Services, LLC, distributor.© 2026. ARK ETF Trust. No part of this material may be reproduced in any form, or referred to in any other publication, without written permission."
